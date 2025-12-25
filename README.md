@@ -115,7 +115,7 @@ These visualizations provide both **quantitative and intuitive insights**.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/student-transport-delay-analysis.git
+   git clone https://github.com/amol6262/student-transport-delay-analysis.git
    ```
 
 2. Navigate to the project directory:
